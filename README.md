@@ -1,12 +1,12 @@
 # Ejemplo Proyectos PLN
 
-Este repositorio muestra un ejemplo educativo para el desarrollo de proyectos de procesamiento del lenguaje natural.
+Este repositorio muestra un ejemplo educativo para el desarrollo de proyectos de ciencia de datos.
 
 
 
 ## Estructura del repositorio
 
-La siguiente estructura organiza el proyecto de forma clara y reproducible, siguiendo buenas prácticas en proyectos de procesamiento de lenguaje natural.
+La siguiente estructura organiza el proyecto de forma clara y reproducible, siguiendo buenas prácticas en proyectos de ciencia de datos.
 
 ```bash
 .
