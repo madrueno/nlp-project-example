@@ -19,12 +19,11 @@ La siguiente estructura organiza el proyecto de forma clara y reproducible, sigu
 ├── reports/        # documentacion elaborada
 ├── runs/           # ejecuciones del proyecto
 ├── src/            # codigo principal del proyecto
-│   ├── cli/        # comandos de consola para experimentacion
 │   ├── config/     # configuracion general
-│   ├── datasets/   # preparacion de datos
+│   ├── datasets/   # carga de datos
 │   ├── evaluation/ # evaluacion de modelos
-│   ├── modeling/   # definicion de modelos
-│   └── pipelines/  # pipelines de experimentacion
+│   ├── pipelines/  # pipelines de experimentacion
+│   └── processing/ # transformaciones de datos
 ├── .env.sample     # placeholder de variables de entorno
 ├── .gitignore      # archivos y carpetas sin trackear
 ├── README.md       # guia del repositorio
@@ -66,6 +65,9 @@ cp .env.sample .env # rellenar variables localmente
 ```
 
 
-
 ## Ejecución
-TODO
+
+### Preparación datos
+
+
+Descargar dataset de IMDB dataset from https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
