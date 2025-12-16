@@ -1,4 +1,4 @@
-# Ejemplo Proyectos PLN
+# Ejemplo Proyectos Ciencia Datos
 
 Este repositorio muestra un ejemplo educativo para el desarrollo de proyectos de ciencia de datos.
 
