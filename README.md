@@ -70,4 +70,4 @@ cp .env.sample .env # rellenar variables localmente
 ### Preparación datos
 
 
-Descargar dataset de IMDB dataset from https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+Descargar dataset de Youtube Spam Ham dataset de https://archive.ics.uci.edu/static/public/380/youtube+spam+collection.zip
